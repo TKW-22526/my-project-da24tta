@@ -1,0 +1,46 @@
+*{
+    margin:0;
+    padding:0;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.container{
+    padding:10px;
+    margin-left:70px;
+    margin-right:70px;
+    margin-top:20px;
+    background-color: beige;
+}
+form{
+    background-color: aliceblue;
+    margin:auto;
+    border-radius: 10px;
+}
+form h3#title{
+    text-transform: uppercase;
+    font-weight: bolder;
+    letter-spacing: 1.5px;
+    text-align:center;
+    padding:7px;
+    color: darkolivegreen;
+
+}
+.control{
+    display: block;
+    padding:7px;
+    border:1px solid yellowgreen;
+    border-radius:5px;
+    width:95%;
+    margin:5px;
+}
+label{
+    padding:7px;
+    color:darkgreen;
+}
+input.button{
+    background-color: darkolivegreen;
+    padding:7px;
+    color:burlywood;
+    border:none;
+    margin:7px;
+    border-radius: 5px;
+}
